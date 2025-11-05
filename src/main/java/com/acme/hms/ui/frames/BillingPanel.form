@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <layout class="org.netbeans.modules.form.compat2.layouts.DesignGroupLayout">
+    <Property name="autoCreateGaps" type="boolean" value="true"/>
+    <Property name="autoCreateContainerGaps" type="boolean" value="true"/>
+  </layout>
+  <subcomponents>
+    <Component class="javax.swing.JLabel" name="label1">
+      <properties>
+        <Property name="text" type="java.lang.String" value="Billing"/>
+      </properties>
+    </Component>
+  </subcomponents>
+</form>
